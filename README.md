@@ -10,7 +10,8 @@ The bot provides a smooth interactive flow:
 5. Asks for improvement 🔄  
 6. Takes the improvement prompt and regenerates the image with **consistency** ( means improve the same image not creating a new one )/ image-to-image generation with additional prompt
 7. Replaces the old image in Google Drive with the **refined version**  
-
+Screenshot: 
+<img width="649" height="280" alt="7" src="https://github.com/user-attachments/assets/11adaf86-abcd-4297-bd45-257a38219cb9" />
 
 
 This makes it easy to create, refine, and store AI-generated images directly from Telegram.
